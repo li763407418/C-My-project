@@ -1,0 +1,2 @@
+C:\Users\lijianping\source\repos\FormTest\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\source\repos\FormTest\DAL\obj\Release\DAL.csprojAssemblyReference.cache

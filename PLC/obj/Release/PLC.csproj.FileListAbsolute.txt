@@ -1,0 +1,2 @@
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Release\PLC.csprojAssemblyReference.cache
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Release\PLC.csproj.CoreCompileInputs.cache

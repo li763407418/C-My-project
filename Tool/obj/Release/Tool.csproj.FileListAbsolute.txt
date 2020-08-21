@@ -1,0 +1,5 @@
+C:\Users\lijianping\source\repos\FormTest\Tool\bin\Release\Tool.dll
+C:\Users\lijianping\source\repos\FormTest\Tool\bin\Release\Tool.pdb
+C:\Users\lijianping\source\repos\FormTest\Tool\obj\Release\Tool.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\source\repos\FormTest\Tool\obj\Release\Tool.dll
+C:\Users\lijianping\source\repos\FormTest\Tool\obj\Release\Tool.pdb

@@ -1,0 +1,5 @@
+C:\Users\lijianping\source\repos\FormTest\FormTest\obj\Release\FormTest.exe.config
+C:\Users\lijianping\source\repos\FormTest\FormTest\obj\Release\FormTest.Form1.resources
+C:\Users\lijianping\source\repos\FormTest\FormTest\obj\Release\FormTest.Properties.Resources.resources
+C:\Users\lijianping\source\repos\FormTest\FormTest\obj\Release\FormTest.csproj.GenerateResource.cache
+C:\Users\lijianping\source\repos\FormTest\FormTest\obj\Release\FormTest.csproj.CoreCompileInputs.cache

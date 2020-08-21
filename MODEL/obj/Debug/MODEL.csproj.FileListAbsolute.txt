@@ -1,0 +1,11 @@
+C:\Users\lijianping\source\repos\FormTest\MODEL\bin\Debug\MODEL.dll
+C:\Users\lijianping\source\repos\FormTest\MODEL\bin\Debug\MODEL.pdb
+C:\Users\lijianping\source\repos\FormTest\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\lijianping\source\repos\FormTest\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\source\repos\FormTest\MODEL\obj\Debug\MODEL.dll
+C:\Users\lijianping\source\repos\FormTest\MODEL\obj\Debug\MODEL.pdb
+F:\20200616\FormTest\MODEL\bin\Debug\MODEL.dll
+F:\20200616\FormTest\MODEL\bin\Debug\MODEL.pdb
+F:\20200616\FormTest\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+F:\20200616\FormTest\MODEL\obj\Debug\MODEL.dll
+F:\20200616\FormTest\MODEL\obj\Debug\MODEL.pdb

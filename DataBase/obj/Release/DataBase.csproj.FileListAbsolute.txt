@@ -1,0 +1,9 @@
+C:\Users\lijianping\source\repos\FormTest\DataBase\obj\Release\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\source\repos\FormTest\DataBase\bin\Release\DataBase.dll.config
+C:\Users\lijianping\source\repos\FormTest\DataBase\bin\Release\DataBase.dll
+C:\Users\lijianping\source\repos\FormTest\DataBase\bin\Release\DataBase.pdb
+C:\Users\lijianping\source\repos\FormTest\DataBase\bin\Release\MySql.Data.dll
+C:\Users\lijianping\source\repos\FormTest\DataBase\obj\Release\DataBase.csprojAssemblyReference.cache
+C:\Users\lijianping\source\repos\FormTest\DataBase\obj\Release\DataBase.csproj.CopyComplete
+C:\Users\lijianping\source\repos\FormTest\DataBase\obj\Release\DataBase.dll
+C:\Users\lijianping\source\repos\FormTest\DataBase\obj\Release\DataBase.pdb

@@ -1,0 +1,8 @@
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Debug\PLC.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\source\repos\FormTest\PLC\bin\Debug\PLC.dll
+C:\Users\lijianping\source\repos\FormTest\PLC\bin\Debug\PLC.pdb
+C:\Users\lijianping\source\repos\FormTest\PLC\bin\Debug\CIPCompolet.dll
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Debug\PLC.csproj.CopyComplete
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Debug\PLC.dll
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Debug\PLC.pdb
+C:\Users\lijianping\source\repos\FormTest\PLC\obj\Debug\PLC.csprojAssemblyReference.cache

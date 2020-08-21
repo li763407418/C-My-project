@@ -1,0 +1,1 @@
+C:\Users\lijianping\source\repos\FormTest\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
