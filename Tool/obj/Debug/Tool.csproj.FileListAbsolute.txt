@@ -8,3 +8,9 @@ F:\20200616\FormTest\Tool\bin\Debug\Tool.dll
 F:\20200616\FormTest\Tool\bin\Debug\Tool.pdb
 F:\20200616\FormTest\Tool\obj\Debug\Tool.dll
 F:\20200616\FormTest\Tool\obj\Debug\Tool.pdb
+C:\Users\lijianping\Desktop\FormTest\Tool\bin\Debug\Tool.dll
+C:\Users\lijianping\Desktop\FormTest\Tool\bin\Debug\Tool.pdb
+C:\Users\lijianping\Desktop\FormTest\Tool\obj\Debug\Tool.csprojAssemblyReference.cache
+C:\Users\lijianping\Desktop\FormTest\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+C:\Users\lijianping\Desktop\FormTest\Tool\obj\Debug\Tool.dll
+C:\Users\lijianping\Desktop\FormTest\Tool\obj\Debug\Tool.pdb
